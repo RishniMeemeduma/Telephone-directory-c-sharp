@@ -1,0 +1,14 @@
+D:\learn\visual studio\Telephone Directory\Telephone Directory\bin\Debug\Telephone Directory.exe.config
+D:\learn\visual studio\Telephone Directory\Telephone Directory\bin\Debug\Telephone Directory.exe
+D:\learn\visual studio\Telephone Directory\Telephone Directory\bin\Debug\Telephone Directory.pdb
+D:\learn\visual studio\Telephone Directory\Telephone Directory\obj\Debug\Telephone Directory.csprojAssemblyReference.cache
+D:\learn\visual studio\Telephone Directory\Telephone Directory\obj\Debug\Telephone_Directory.Form1.resources
+D:\learn\visual studio\Telephone Directory\Telephone Directory\obj\Debug\Telephone_Directory.Properties.Resources.resources
+D:\learn\visual studio\Telephone Directory\Telephone Directory\obj\Debug\Telephone Directory.csproj.GenerateResource.cache
+D:\learn\visual studio\Telephone Directory\Telephone Directory\obj\Debug\Telephone Directory.csproj.CoreCompileInputs.cache
+D:\learn\visual studio\Telephone Directory\Telephone Directory\obj\Debug\Telephone Directory.exe
+D:\learn\visual studio\Telephone Directory\Telephone Directory\obj\Debug\Telephone Directory.pdb
+D:\learn\visual studio\Telephone Directory\Telephone Directory\bin\Debug\Telephone Directory.exe.manifest
+D:\learn\visual studio\Telephone Directory\Telephone Directory\bin\Debug\Telephone Directory.application
+D:\learn\visual studio\Telephone Directory\Telephone Directory\obj\Debug\Telephone Directory.exe.manifest
+D:\learn\visual studio\Telephone Directory\Telephone Directory\obj\Debug\Telephone Directory.application
